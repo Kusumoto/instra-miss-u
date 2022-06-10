@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Instra Miss U :(",
+  "version": "0.1.0",
+  "description": "Chrome extension for hidden your activity watch your frields story",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "host_permissions": [
+    "http://i.instagram.com/"
+  ],
+  "permissions": [
+    "webRequest",
+    "declarativeNetRequest", 
+    "activeTab"
+  ]
+}
