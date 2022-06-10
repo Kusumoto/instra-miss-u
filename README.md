@@ -1,5 +1,5 @@
 # Instra Miss U :(
-Chrome extension for hidden your activity watch your frields story
+Chrome extension for hidden your activity watch your friends story
 
 ## Install
 0. Clone this repository
